@@ -15,7 +15,7 @@
 Recreating the Apple Homepage Design.
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-![Site Screen Shot](image.png)
+![Site Screen Shot](/src/public/assets/screenShot.png)
 
 ### Built With
 
